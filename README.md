@@ -1,7 +1,5 @@
 # glados自动签到，实现无限白嫖。
 
-注册GLaDOS
-
 原仓库地址：https://github.com/lukesyy/glados_automation
 
 复制了一个仓库，防止原仓库被 Github 封后，Fork 也都失效
