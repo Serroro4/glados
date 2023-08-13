@@ -2,7 +2,9 @@
 
 原仓库地址：https://github.com/lukesyy/glados_automation
 
-复制了一个仓库，防止原仓库被 Github 封后，Fork 也都失效
+复制了一个仓库，防止原仓库被 Github 封后 Fork 也都失效
+
+更新：原仓库已经被封了😥
 
 环境变量：`GLADOS_COOKIE`（必要） 和 `PUSHPLUS_TOKEN`（非必要）
 
